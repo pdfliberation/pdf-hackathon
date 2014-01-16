@@ -21,6 +21,7 @@ In addition to extracting the data, the challenge requires transforming it into 
 
 Following is a list of fields that should appear in the output file:
 
+| Fields | Description |
 | ---- | ------ |
 | CITY | Based on the source document (values are Chicago, New York, San Francisco, Washington DC) |
 | Fiscal Year (FY) | Column Headers from Each Table (values are 4-digit numbers ranging from 2003- 2012 in Chicago and DC, and 2004-2013 in New York and San Francisco) |
