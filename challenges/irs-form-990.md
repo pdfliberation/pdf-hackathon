@@ -54,7 +54,7 @@ Below is a list of fields we’d like to extract eventually. Feel free to email 
 
 ****
 
-**#1  **Name, title and compensation of all officers (Part VII - Section A)
+**#1** Name, title and compensation of all officers (Part VII - Section A)
 
 **EXAMPLE 1:**
 
