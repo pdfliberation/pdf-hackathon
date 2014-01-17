@@ -11,3 +11,4 @@ Resources related to PDF Liberation hackathon
 - [IRS Form 990 – Not-for-Profit Organization Reports](challenges/irs-form-990.md)
 - [Amnesty International Annual Reports – Torture Incident Database](challenges/amnesty-challenge.md)
 - [Unlocking U.S. Foreign Aid Reports Database](challenges/usaid-challenge.md)
+- [Federal Government Federal Communications Commission Challenge](challenges/fcc-daily-releases.md)
