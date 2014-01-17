@@ -1,4 +1,4 @@
-PDF Liberation Hackathon - Federal Government Federal Communications Commission Challenge
+**PDF Liberation Hackathon - Federal Communications Commission Challenge**
 
 As part of regular business process, the Federal Communications Commission writes and releases many documents.  These documents are public notices, rule-makings, proposed rules and many other prose based discussions of technical issues relating to spectrum, broadcasting, broadband, media and other communications issues.  In general the legal industry has a need for these documents to not only contain the proper history, content and technical discussions, but also contain standard formatting that the legal industry has developed.  This combination of content and formatting fundamentally requires the FCC to release PDF documents.  These documents result in less than desirable search, retrieval and display.
 
