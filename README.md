@@ -12,3 +12,4 @@ Resources related to PDF Liberation hackathon
 - [Amnesty International Annual Reports – Torture Incident Database](challenges/amnesty-challenge.md)
 - [Unlocking U.S. Foreign Aid Reports Database](challenges/usaid-challenge.md)
 - [Federal Government Federal Communications Commission Challenge](challenges/fcc-daily-releases.md)
+- [NYCpedia challenge(s)](challenges/NYCpedia-challenges.md)
