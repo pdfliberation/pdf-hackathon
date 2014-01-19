@@ -14,7 +14,7 @@ Resources related to PDF Liberation hackathon
 ## DC projects
 
 - IRS 990s + documents as geography (Jacob Fenton, et al): [https://github.com/pdfliberation/whatwordwhere](https://github.com/pdfliberation/whatwordwhere)
-- USAID (Dylan, Tom, Kat)
+- USAID (Dylan, Tom, Kat) [https://github.com/dbarlett/USAID-DEC](https://github.com/dbarlett/USAID-DEC)
 
 ## Challenge descriptions
 
