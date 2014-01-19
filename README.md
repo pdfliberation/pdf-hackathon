@@ -11,6 +11,11 @@ Resources related to PDF Liberation hackathon
 
 - [Day 2 presentations hangout](https://plus.google.com/hangouts/_/event/c9uepihh44l21cbtof3gir49fpg?authuser=1&hl=en)
 
+## DC projects
+
+- IRS 990s + documents as geography (Jacob Fenton, et al): [https://github.com/pdfliberation/whatwordwhere](https://github.com/pdfliberation/whatwordwhere)
+- USAID (Dylan, Tom, Kat)
+
 ## Challenge descriptions
 
 - [Comprehensive Annual Financial Reports](challenges/cafr-challenge.md)
