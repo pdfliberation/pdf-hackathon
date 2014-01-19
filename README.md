@@ -9,6 +9,8 @@ Resources related to PDF Liberation hackathon
 
 - [Add a comment](https://github.com/pdfliberation/assembly/issues/2) to request membership with the PDF Liberation organization
 
+- [Day 2 presentations hangout](https://plus.google.com/hangouts/_/event/c9uepihh44l21cbtof3gir49fpg?authuser=1&hl=en)
+
 ## Challenge descriptions
 
 - [Comprehensive Annual Financial Reports](challenges/cafr-challenge.md)
