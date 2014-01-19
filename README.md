@@ -3,9 +3,11 @@ pdf-hackathon
 
 Resources related to PDF Liberation hackathon
 
-IRC: [https://webchat.freenode.net/](https://webchat.freenode.net/) Channel: sunlightlabs
+- IRC: [https://webchat.freenode.net/](https://webchat.freenode.net/) Channel: sunlightlabs
 
-Fork this gist to track your data extraction: [https://gist.github.com/gregelin/8488150](https://gist.github.com/gregelin/8488150)
+- Fork this gist to track your data extraction: [https://gist.github.com/gregelin/8488150](https://gist.github.com/gregelin/8488150)
+
+- [Add a comment](https://github.com/pdfliberation/assembly/issues/2) to request membership with the PDF Liberation organization
 
 ## Challenge descriptions
 
